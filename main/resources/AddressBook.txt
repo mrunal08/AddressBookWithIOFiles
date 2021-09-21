@@ -1,1 +1,2 @@
-Person{firstName ='m', lastName ='g', address ='f', city ='r', state ='r', zip = 'e', phoneNumber ='55'}
+Person{firstName ='Mrunal', lastName ='Gadhave', address ='Theur', city ='Pune', state ='MH', zip = '412201', phoneNumber ='8888888888'}
+Person{firstName ='Ovee', lastName ='Zende', address ='pune', city ='pune', state ='MH', zip = '412201', phoneNumber ='7894561235'}
